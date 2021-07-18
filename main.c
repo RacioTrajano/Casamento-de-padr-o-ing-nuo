@@ -27,6 +27,8 @@ for (int i=0; i<=tam_text - tam_padrao; i++){
   printf("\n");
 }
 }
+if (fim==0)
+printf("Não achei o padrão");
 
 
 }
